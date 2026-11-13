@@ -61,6 +61,11 @@ locations. APKs are signed with `KEYSTORE` (default: the Android debug keystore)
 `release.sh --publish` also creates the GitHub release for the version in
 `AndroidManifest.xml`; then commit and push `update.json`.
 
+## License
+
+[MIT](LICENSE) for TabAOD's own code. The parts listed in [NOTICE](NOTICE) keep their
+own licenses: the clock adapted from AOSP (Apache 2.0) and the bundled fonts (SIL OFL 1.1).
+
 ## Credits
 
 See [NOTICE](NOTICE). The "AOSP" clock style is adapted from the Android Open Source Project
