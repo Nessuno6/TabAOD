@@ -4,7 +4,7 @@ An Always On Display for rooted Samsung Galaxy tablets, which don't get One UI's
 TabAOD replaces the system's doze screen with its own: a clock, your lock screen widgets,
 notifications and a Now bar, drawn while the screen is otherwise off.
 
-Developed and tested on a Galaxy Tab S8 Ultra (SM-X940) with One UI 8 and KernelSU.
+Developed and tested on a Galaxy Tab S12 Ultra (SM-X940) with One UI 9 and KernelSU.
 Other Samsung tablets with an OLED screen may work; nothing here is guaranteed.
 
 ## Features
