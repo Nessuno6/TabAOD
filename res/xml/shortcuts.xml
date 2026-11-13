@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  App shortcuts: shown when long-pressing the app icon, and offered by Samsung Modes and
+  Routines as app actions ("Open an app or do an app action"), so routines can switch the AOD.
+-->
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="aod_on"
+        android:enabled="true"
+        android:icon="@drawable/ic_sc_aod_on"
+        android:shortcutShortLabel="@string/sc_on_short"
+        android:shortcutLongLabel="@string/sc_on_long">
+        <intent
+            android:action="dev.deang.tabaod.action.AOD_ON"
+            android:targetPackage="dev.deang.tabaod"
+            android:targetClass="dev.deang.tabaod.AodSwitchActivity" />
+    </shortcut>
+    <shortcut
+        android:shortcutId="aod_off"
+        android:enabled="true"
+        android:icon="@drawable/ic_sc_aod_off"
+        android:shortcutShortLabel="@string/sc_off_short"
+        android:shortcutLongLabel="@string/sc_off_long">
+        <intent
+            android:action="dev.deang.tabaod.action.AOD_OFF"
+            android:targetPackage="dev.deang.tabaod"
+            android:targetClass="dev.deang.tabaod.AodSwitchActivity" />
+    </shortcut>
+</shortcuts>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sc_on_short">Turn AOD on</string>
+    <string name="sc_on_long">Turn Always On Display on</string>
+    <string name="sc_off_short">Turn AOD off</string>
+    <string name="sc_off_long">Turn Always On Display off</string>
+</resources>

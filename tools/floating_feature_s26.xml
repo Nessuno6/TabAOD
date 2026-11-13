@@ -1,0 +1,6 @@
+<SecFloatingFeatureSet>
+    <!-- Edge lighting border effects (from the edge lighting fix) -->
+    <SEC_FLOATING_FEATURE_SYSTEMUI_CONFIG_EDGELIGHTING_FRAME_EFFECT>frame_effect</SEC_FLOATING_FEATURE_SYSTEMUI_CONFIG_EDGELIGHTING_FRAME_EFFECT>
+    <!-- Samsung AOD, same value as the S25 Ultra (cover-screen font option left out) -->
+    <SEC_FLOATING_FEATURE_FRAMEWORK_CONFIG_AOD_ITEM>aodversion=7,clocktransition</SEC_FLOATING_FEATURE_FRAMEWORK_CONFIG_AOD_ITEM>
+</SecFloatingFeatureSet>

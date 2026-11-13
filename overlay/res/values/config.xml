@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Point Android's doze service at TabAOD instead of SystemUI. -->
+    <string name="config_dozeComponent" translatable="false">dev.deang.tabaod/dev.deang.tabaod.AodDozeService</string>
+</resources>

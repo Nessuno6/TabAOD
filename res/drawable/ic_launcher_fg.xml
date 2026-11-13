@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  TabAOD launcher icon foreground (original design): a landscape tablet showing an
+  always-on clock ring with two small widget tiles under it. Everything sits inside the
+  66dp safe zone (21..87) of the 108dp adaptive icon canvas.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Tablet body -->
+    <path
+        android:pathData="M33,36h42a6,6 0,0 1,6 6v24a6,6 0,0 1,-6 6h-42a6,6 0,0 1,-6 -6v-24a6,6 0,0 1,6 -6z"
+        android:strokeColor="#E6FFFFFF"
+        android:strokeWidth="2.6"
+        android:fillColor="#33000000" />
+    <!-- Clock ring -->
+    <path
+        android:pathData="M54,40.5a8.5,8.5 0,1 1,0 17a8.5,8.5 0,1 1,0 -17z"
+        android:strokeColor="#FF5B9DFF"
+        android:strokeWidth="2.6" />
+    <!-- Hands -->
+    <path
+        android:pathData="M54,49L54,44.2M54,49L58,51.2"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round" />
+    <!-- Widget tiles -->
+    <path
+        android:pathData="M42.5,61.5h8a1.8,1.8 0,0 1,1.8 1.8v2.4a1.8,1.8 0,0 1,-1.8 1.8h-8a1.8,1.8 0,0 1,-1.8 -1.8v-2.4a1.8,1.8 0,0 1,1.8 -1.8z"
+        android:fillColor="#99FFFFFF" />
+    <path
+        android:pathData="M57.5,61.5h8a1.8,1.8 0,0 1,1.8 1.8v2.4a1.8,1.8 0,0 1,-1.8 1.8h-8a1.8,1.8 0,0 1,-1.8 -1.8v-2.4a1.8,1.8 0,0 1,1.8 -1.8z"
+        android:fillColor="#99FFFFFF" />
+</vector>

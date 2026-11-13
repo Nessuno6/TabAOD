@@ -1,0 +1,9 @@
+{
+  "version": "v0.9",
+  "versionCode": 9,
+  "zipUrl": "https://github.com/Nessuno6/TabAOD/releases/download/v0.9/TabAOD_module_v0.9.zip",
+  "changelog": "https://raw.githubusercontent.com/Nessuno6/TabAOD/main/CHANGELOG.md",
+  "apkVersionCode": 9,
+  "apkUrl": "https://github.com/Nessuno6/TabAOD/releases/download/v0.9/TabAOD-v0.9.apk",
+  "apkSha256": "554e297212a1cc19b7146994958bc164b017bddd50a0f194067e27b30edd9a85"
+}

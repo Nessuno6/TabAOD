@@ -1,0 +1,13 @@
+# Build output
+build/
+overlay/build/
+dist/
+module/stage/
+module/*.zip
+
+# Signing keys
+*.keystore
+*.jks
+
+# Local screenshots
+screenshot*.png

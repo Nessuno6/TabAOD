@@ -1,0 +1,7 @@
+id=tabaod
+name=TabAOD Always On Display
+version=v0.0
+versionCode=0
+author=deang
+description=Makes TabAOD the doze service (in-memory overlay, nothing written to /system) and keeps its notification and doze access set up. Supports widgets and Modes and Routines (Turn AOD on/off app actions). Toggle the AOD with the "AOD" Quick Settings tile.
+updateJson=https://raw.githubusercontent.com/Nessuno6/TabAOD/main/update.json
